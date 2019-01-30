@@ -22,6 +22,7 @@
     <ClCompile Include="$(MSBuildThisFileDirectory)..\Generated\NavigationViewTemplateSettings.properties.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)NavigationViewCollapsedEventArgs.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)NavigationViewExpandingEventArgs.cpp" />
+    <ClCompile Include="$(MSBuildThisFileDirectory)NavigationViewItemBaseTemplateSettings.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)NavigationViewItemPresenter.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)NavigationViewTemplateSettings.cpp" />
     <ClCompile Include="$(MSBuildThisFileDirectory)NavigationViewBackRequestedEventArgs.cpp" />
@@ -42,6 +43,7 @@
     <ClInclude Include="$(MSBuildThisFileDirectory)NavigationViewCollapsedEventArgs.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)NavigationViewExpandingEventArgs.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)NavigationViewHelper.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)NavigationViewItemBaseTemplateSettings.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)NavigationViewItemPresenter.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)NavigationViewTemplateSettings.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)NavigationViewBackRequestedEventArgs.h" />
